@@ -73,10 +73,7 @@ foreach ($items as $item)
     echo $item['link'];
     echo $item['site'];
     
-    
-    
-   echo" </td></tr>";
-   
+    echo" </td></tr>";   
     
 }
 echo "</table>";
